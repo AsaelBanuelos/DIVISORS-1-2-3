@@ -1,0 +1,5 @@
+﻿  divisorsapp.cpp
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\TASK2\Divisors123\Divisors123\divisorsapp.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\TASK2\Divisors123\Divisors123\divisorsapp.cpp(101,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\TASK2\Divisors123\Divisors123\divisorsapp.cpp(110,26): warning C4018: '<': signed/unsigned mismatch
+  Divisors123.vcxproj -> C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\TASK2\Divisors123\x64\Debug\Divisors123.exe
